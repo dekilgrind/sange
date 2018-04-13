@@ -606,10 +606,10 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("TYPE PRANKBOTS")
+      print("TYPE SANGEBOTS")
       print("MID= " + prof.mid)
       print("NAMA= " + prof.displayName)
       print("TOKET= " + self.authToken)
       print("MENCRET= " + self.cert if self.cert is not None else "")
-      print("CREATOR BY:ACIL")
+      print("CREATOR BY:DEKIL")
 #-========-----------------
