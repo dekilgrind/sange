@@ -6,7 +6,7 @@ from datetime import datetime
 import time,random,sys,re,os,json,subprocess,codecs,threading,glob
 
 acil = PRANKBOTS.LINE() 
-acil.login(token="token akun utama/selfbot")
+acil.login(token="ErcU07pZEVFt2Ji7J9y6.Z4ZL/y67gwpVSNbiJ12efG.MbS6kRulN0r8vreTkPdqdFAU5rScKMnHxHiwPZSRGzk=")
 acil.loginResult()
 
 pb1 = PRANKBOTS.LINE() 
@@ -122,7 +122,7 @@ mid = acil.getProfile().mid
 pb1mid = pb1.getProfile().mid
 pb2mid = pb2.getProfile().mid
 Bots=[mid,pb1mid,pb2mid]
-admsa = "mid akun utama/sb"
+admsa = "ucf8ce5f98ebb1963efb270488f5d8416"
 
 wait = {
     'contact':False,
